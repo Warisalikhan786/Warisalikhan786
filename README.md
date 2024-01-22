@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waris-ali-khan-92a03a240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warisalikhan" height="30" width="40" /></a>
-<a href="https://fb.com/techiforu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techiforu" height="30" width="40" /></a>
-<a href="https://instagram.com/techiforu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techiforu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Mistar.khan633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techiforu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/warisalikhan633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techiforu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@techi4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techi4u" height="30" width="40" /></a>
 </p>
 
