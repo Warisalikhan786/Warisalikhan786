@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter, HTML, CSS, Javascript, Bootstrap, Mysql, PHP**
 
-- 📫 How to reach me **techi4u1996@gmail.com**
+- 📫 How to reach me **warisalikhan29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
